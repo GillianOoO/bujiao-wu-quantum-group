@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="100" viewBox="0 0 72 100" role="img" aria-labelledby="title">
+  <title id="title">尚未添加头像</title>
+  <rect width="72" height="100" fill="#e4eaf1"/>
+  <g fill="none" stroke="#a0adbd" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="36" cy="36" r="11"/>
+    <path d="M17 76v-8a19 19 0 0 1 38 0v8"/>
+  </g>
+</svg>
