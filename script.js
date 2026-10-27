@@ -82,7 +82,6 @@ const languageTranslations = new Map(Object.entries({
   "博士后": "Postdoctoral Fellow",
   "余睿": "Rui Yu",
   "研究助理 · RA": "Research Assistant · RA",
-  "林桐音": "Tongyin Lin",
   "李辉成：尚未添加头像": "Huicheng Li: photo not yet added",
   "尚未添加头像": "Photo not yet added",
   "深圳大学联培硕士生": "Joint Master's Student · Shenzhen University",
